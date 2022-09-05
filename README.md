@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kundo</h1>
-<h3 align="center">B.tech(3rd year) | Enthusiast at Ethical Hacking | Intern at Era Interface</h3>
+<h3 align="center">B.tech(CSE) | Enthusiast at Ethical Hacking | Intern at Era Interface</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkundo&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkundo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kundodinesh" target="blank"><img src="https://img.shields.io/twitter/follow/kundodinesh?logo=twitter&style=for-the-badge" alt="kundodinesh" /></a> </p>
 
-- 🔭 I’m currently working on **D-Mart**
+- 🔭 I’m currently working on **Osmosys software solution**
 
-- 🌱 I’m currently learning **Django,Web Application Penetration**
+- 🌱 I’m currently learning **Full Stack Development **
 
 - 💬 Ask me about **Penetration Testing**
 
