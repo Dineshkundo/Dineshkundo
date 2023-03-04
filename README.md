@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kundo</h1>
-<h3 align="center">B.tech(CSE) | Enthusiast at Ethical Hacking |Ex-Intern at Osmosys Software Solutions | EX-Intern at Era Interface</h3>
+<h3 align="center">B.tech(CSE) | Enthusiast at Web development | Ex-Intern at Osmosys Software Solutions | EX-Intern at Era Interface</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkundo&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkundo" /> </p>
 
