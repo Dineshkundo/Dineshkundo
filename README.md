@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/kundodinesh" target="blank"><img src="https://img.shields.io/twitter/follow/kundodinesh?logo=twitter&style=for-the-badge" alt="kundodinesh" /></a> </p>
 
-- 🔭 I’m currently working on **MERN-Stack**
+- 🔭 I’m currently working on ** MERN-Stack **
 
-- 🌱 I’m currently learning **Full Stack Development **
+- 🌱 I’m currently learning ** Full Stack Development **
 
-- 💬 Ask me about **Penetration Testing**
+- 💬 Ask me about ** Penetration Testing **
 
-- 📫 How to reach me **kundodinesh0@gmail.com**
+- 📫 How to reach me ** kundodinesh0@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
