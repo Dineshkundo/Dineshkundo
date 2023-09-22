@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kundodinesh" target="blank"><img src="https://img.shields.io/twitter/follow/kundodinesh?logo=twitter&style=for-the-badge" alt="kundodinesh" /></a> </p>
 
-- 🔭 I’m currently working on ** MERN-Stack **
+- 🔭 I’m currently working on ** My Self **
 
-- 🌱 I’m currently learning ** Full Stack Development **
+- 🌱 I’m currently learning ** AWS **
 
 - 💬 Ask me about ** Penetration Testing **
 
