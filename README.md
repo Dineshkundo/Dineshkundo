@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkundo&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkundo" /> </p>
 <p align="center">
-  <img src="[images/banner.png](https://camo.githubusercontent.com/0537b0c997c7b211a7101864af8a2a22411a99343570b56b783d4449884161f8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785541376264704c78516873535164796f672f67697068792e676966)" alt="Profile Banner">
+  <img src="[images/banner.png](https://wallpapercave.com/wp/wp7848258.jpg)" alt="Profile Banner">
 </p>
 
 - 🔭 I’m currently working on **AWS Migration Project**
