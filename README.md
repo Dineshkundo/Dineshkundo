@@ -2,9 +2,6 @@
 <h3 align="center">A passionate AWS developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkundo&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkundo" /> </p>
-<p align="center">
-  <img src="[images/banner.png](https://wallpapercave.com/wp/wp7848258.jpg)" alt="Profile Banner">
-</p>
 
 - 🔭 I’m currently working on **AWS Migration Project**
 
