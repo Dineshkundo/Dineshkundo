@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkundo&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkundo" /> </p>
 
-- 🔭 I’m currently working on **AWS Migration Project**
+- 🔭 I’m currently working on **Automate Ci/Cd using Terraform**
 
 - 🌱 I’m currently learning **AWS & Devops :)**
 
