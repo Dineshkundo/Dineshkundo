@@ -10,9 +10,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Dineshkundo](https://github.com/Dineshkundo)
 
 - 📫 How to reach me **kundodinesh0@gmail.com**
-- 
+
 - 📫 Visit My Portfolio **https://dinesh-kundo.netlify.app/**
-- 
+
 - 💬 Ask me about **AWS**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
