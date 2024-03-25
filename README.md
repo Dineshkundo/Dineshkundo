@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkundo&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkundo" /> </p>
 
-- 🔭 I’m currently working on **Automate Ci/Cd using Terraform**
+- 🔭 I’m currently working on **GCP with Devops**
 
-- 🌱 I’m currently learning **AWS & Devops :)**
+- 🌱 I’m currently learning **AWS/GCP & Devops :)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dineshkundo](https://github.com/Dineshkundo)
 
@@ -13,7 +13,7 @@
 
 - 📫 Visit My Portfolio **https://dinesh-kundo.netlify.app/**
 
-- 💬 Ask me about **AWS**
+- 💬 Ask me about **AWS & GCP**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kundodinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kundodinesh" height="30" width="40" /></a>
